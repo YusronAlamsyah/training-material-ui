@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.mt-3{
+  margin-top: 3rem;
+}
+.p-2{
+  padding: 2rem;
+}
